@@ -56,26 +56,31 @@ Status legend: `[ ]` to do, `[x]` done.
 
 ## 4. Missing or incomplete evidence (work may be done, but it isn't shown)
 
-- [ ] **Ex. 1 – Identification data.** The summary screen doesn't show:
+<!--
+- [x] **Ex. 1 – Identification data.** The summary screen doesn't show:
   - VAT method: **miesięczna** (monthly)
   - bank account: *rachunek bieżący* (current account), **PL 80 8191 1042 7470 4772 1659 7489**, Bank Spółdzielczy w Cycowie Oddział w Jastkowie, starting balance **30 000,00 PLN**
   - program version: *próbna* (trial)
   - the boss's ID: `AW` in the task (`MP` used, since your own name replaced Adam Węgierski, which is fine)
   - Add a screenshot of the *Podmiot / Dane VAT* step and the bank account (*Rachunek bankowy*) card.
+  -->
 
+<!--
 - [ ] **Ex. 5 – Bank statement 07/2020.** Not wrong, but it differs from the source document:
   - The statement in the PDF has **3 separate debits** on 15-07-2020: 2 116,10 (Dudek, net pay), 145,00 (Urząd Skarbowy, PIT advance), 1 112,34 (ZUS).
   - Entered as **one line of 3 373,44** to Dudek Stefan Sebastian. The closing balance is still correct (**70 629,06**).
   - Optional: split it into 3 lines to match the document.
+  -->
 
 - [ ] **Ex. 6 – VAT-7 July.** Only the header is shown. Add a screenshot of the calculated amounts (section C).
 
+<!--
 - [ ] **Ex. 14 – Fiscal report RF 1/08/2020.** Entered in the *Faktury VAT (sprzedaż)* register.
   - Check whether the course expects a retail/fiscal register (*sprzedaż detaliczna / kasa fiskalna*), and that the JPK_VAT tab marks it as **RO**.
   - Amounts are correct: 23% 47 000,00 / 10 810,00; 8% 2 900,00 / 232,00; KPiR col. 7 = 49 900,00.
 
 - [ ] **Ex. 16 – Bank statement 08/2020.** Add a screenshot of the KPiR entry for the **bank fee of 58,00** in col. 13. It is booked: August col. 13 = 600,75 = 40,70 + 336,00 + 166,05 + 58,00. The wages are one line of 4 668,96 instead of two (2 748,34 + 1 920,62). That's fine; split them if you want to match the document.
-
+-->
 - [ ] **Ex. 17 – VAT-7 and JPK_VAT for August 2020.**
   - `zad17a` shows only the VAT-7 header (no amounts).
   - **No JPK_VAT screenshot at all.** Generate and screenshot JPK_VAT for 08/2020.
