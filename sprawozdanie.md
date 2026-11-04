@@ -4,9 +4,6 @@
 |---|
 | **Mikołaj Pawłoś** |
 | **258681** |
-| 04-11-2026 |
-
-<div style="page-break-after: always;"></div>
 
 ## Spis treści
 
@@ -236,14 +233,14 @@
 
 ![Zadanie 28](zad28.png)
 
-**Odpowiedź:** Umorzenie środka trwałego na dzień 31-10-2020 wynosi **5 033,34 zł** (2 416,67 zł za wrzesień + 2 616,67 zł za październik).
+Umorzenie wynosi **5 033,34 zł**.
 
 
 ## Zadanie 29
 
-*(zrzut ekranu „Bilans z księgi” – do uzupełnienia)*
+![Zadanie 29](zad29bilans.png)
 
-**Odpowiedź:** Dochód za okres 01-07-2020 – 31-10-2020 wynosi **86 860,66 zł** (przychód 109 375,80 zł − koszty 22 515,14 zł).
+Dochód wynosi **86 860,66 zł**.
 
 
 ## Zadanie 30

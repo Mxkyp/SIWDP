@@ -31,13 +31,13 @@ Status legend: `[ ]` to do, `[x]` done.
   - Check the supplier NIP: the screenshot shows `89456553563` (11 digits). The invoice shows `8945653563`.
   - Retake: `zad2.png`, `zad2a.png`, `zad2b.png`.
 
-- [ ] **Ex. 7 – Wrong document number** (`zad7.png`)
+- [x] **Ex. 7 – Wrong document number** (`zad7.png`)
   - Screenshot: **FS 754/07/2020** (copied from ex. 2).
   - Correct: **FS 15/08/2020** (Jaskółka sp. z o.o., 145 000,00 net / 33 350,00 VAT / 178 350,00 gross).
   - Evidence it's fixed: the August bank statement (`zad16a.png`) shows "FS 15/08/2020(178350.00)".
   - Retake: `zad7.png`.
 
-- [ ] **Ex. 8 – Wrong acquisition year** (`zad8.png`)
+- [x] **Ex. 8 – Wrong acquisition year** (`zad8.png`)
   - Screenshot: **Data nabycia = 01-08-2026**.
   - Correct: **01-08-2020**.
   - Evidence it's fixed: the asset card in `zad28.png` shows 01-08-2020.
@@ -104,7 +104,7 @@ Status legend: `[ ]` to do, `[x]` done.
   - `zad28.png` shows the asset card, not a **report**. Generate the fixed assets report (*Raport o środkach trwałych* / *Zestawienia*) for 31-10-2020 and screenshot it.
   - **Write the answer as text:** accumulated depreciation = **5 033,34 zł** (2 416,67 for IX + 2 616,67 for X).
 
-- [ ] **Ex. 29 – "Bilans z księgi" (balance from the book) 01-07-2020 – 31-10-2020.**
+- [x] **Ex. 29 – "Bilans z księgi" (balance from the book) 01-07-2020 – 31-10-2020.**
   - Needs its own screenshot (currently a duplicate of ex. 30).
   - **Write the answer as text:** income for the period = **86 860,66 zł** (revenue 109 375,80 − costs 22 515,14).
 
