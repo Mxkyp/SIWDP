@@ -48,8 +48,8 @@ Status legend: `[ ]` to do, `[x]` done.
 
 ## 3. Screenshots in the wrong place
 
-- [ ] **`zad17b.png` is not ex. 17.** It's an early, wrong version of ex. 18: the whole **3 572,00 in column 10**, transport not split out. The correct version is `zad18b.png` (3 460,00 in col. 10 + 112,00 in col. 11). → **Delete `zad17b.png`.**
-- [ ] **`zad28b.png`** is the *Podsumowanie KPiR* dialog (01-07-2020 – 31-10-2020, *miesięcznie*). It belongs to **ex. 30**, not ex. 28. → Rename it to e.g. `zad30a.png`.
+- [x] **`zad17b.png` is not ex. 17.** *(removed from the report; file still on disk)* It's an early, wrong version of ex. 18: the whole **3 572,00 in column 10**, transport not split out. The correct version is `zad18b.png` (3 460,00 in col. 10 + 112,00 in col. 11). → **Delete `zad17b.png`.**
+- [x] **`zad28b.png`** *(now shown under ex. 30 in the report)* is the *Podsumowanie KPiR* dialog (01-07-2020 – 31-10-2020, *miesięcznie*). It belongs to **ex. 30**, not ex. 28. → Rename it to e.g. `zad30a.png`.
 - [ ] **`zad29.png` and `zad30.png` are the same file** (same MD5). The image is the *monthly* KPiR summary, which fits **ex. 30**. → Ex. 29 needs its own screenshot (see section 4).
 
 ---
@@ -115,7 +115,7 @@ Status legend: `[ ]` to do, `[x]` done.
 ## 5. After fixing
 
 - [ ] Regenerate `sprawozdanie.md` so it picks up renamed, deleted, and new screenshots.
-- [ ] Add answer text under ex. 28 and 29 in `sprawozdanie.md`.
+- [x] Add answer text under ex. 28 and 29 in `sprawozdanie.md`.
 - [ ] Fill in the name / student ID / group / date on the title page.
 
 ---
