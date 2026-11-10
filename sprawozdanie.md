@@ -20,6 +20,11 @@
 - [Zadanie 8](#zadanie-8)
 - [Zadanie 9](#zadanie-9)
 - [Zadanie 10](#zadanie-10)
+- [Zadanie 11](#zadanie-11)
+- [Zadanie 12](#zadanie-12)
+- [Zadanie 13](#zadanie-13)
+- [Zadanie 14](#zadanie-14)
+- [Zadanie 15](#zadanie-15)
 
 <div style="page-break-after: always;"></div>
 
@@ -81,3 +86,32 @@
 ## Zadanie 10
 
 ![Zadanie 10](zad10.png)
+
+
+## Zadanie 11
+
+![Zadanie 11](zad11.png)
+
+
+## Zadanie 12
+
+![Zadanie 12](zad12.png)
+
+![Zadanie 12 (a)](zad12a.png)
+
+
+## Zadanie 13
+
+![Zadanie 13](zad13.png)
+
+
+## Zadanie 14
+
+![Zadanie 14](zad14.png)
+
+
+## Zadanie 15
+
+![Zadanie 15](zad15.png)
+
+![Zadanie 15 (a)](zad15a.png)
