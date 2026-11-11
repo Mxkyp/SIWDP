@@ -40,6 +40,8 @@
 
 ## Zadanie 1
 
+![Zadanie 1](zad1a.png)
+![Zadanie 1](zad1b.png)
 ![Zadanie 1](zad1.png)
 
 
