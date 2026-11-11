@@ -42,7 +42,6 @@
 
 ![Zadanie 1](zad1.png)
 
-![Zadanie 1 (a)](zad1a.png)
 
 
 ## Zadanie 2
