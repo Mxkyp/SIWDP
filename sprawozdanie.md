@@ -187,3 +187,40 @@
 ![Zadanie 25](zad25.png)
 
 ![Zadanie 25 (a)](zad25a.png)
+
+
+## Zadanie 26
+
+![Zadanie 26](zad26.png)
+
+![Zadanie 26 (a)](zad26a.png)
+
+![Zadanie 26 (b)](zad26b.png)
+
+
+## Zadanie 27
+
+![Zadanie 27](zad27.png)
+
+
+## Zadanie 28
+
+![Zadanie 28](zad28.png)
+
+![Zadanie 28 (a)](zad28a.png)
+
+![Zadanie 28 (b)](zad28b.png)
+
+
+## Zadanie 29
+
+![Zadanie 29](zad29.png)
+
+![Zadanie 29 (a)](zad29a.png)
+
+
+## Zadanie 30
+
+![Zadanie 30](zad30.png)
+
+![Zadanie 30 (a)](zad30a.png)
