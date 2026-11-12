@@ -4,7 +4,6 @@
 |---|
 | **Mikołaj Pawłoś** |
 | **258681** |
-| 10-11-2026 |
 
 <div style="page-break-after: always;"></div>
 
