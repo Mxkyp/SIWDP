@@ -42,11 +42,11 @@
 
 ## Zadanie 1
 
-Dane firmy PHU Szkolenie sp. z o.o. wprowadzone kreatorem (szef: Mikołaj Pawłoś, identyfikator MP; pierwsza wypłata: lipiec 2026; zasiłki wypłaca ZUS; składki do 15. dnia następnego miesiąca). W zadaniu nie podano numeru NIP („NIP szkoły”), więc użyto numeru przykładowego 521-000-00-03.
+Dane firmy PHU Szkolenie sp. z o.o. wprowadzone kreatorem (szef: Mikołaj Pawłoś, identyfikator MP; pierwsza wypłata: lipiec 2026; zasiłki wypłaca ZUS; składki do 15. dnia następnego miesiąca). W zadaniu nie podano numeru NIP („NIP szkoły”), więc użyto numeru przykładowego 521-000-00-03. Uwaga: w treści zadań podany jest rok 2023, ale w całym sprawozdaniu konsekwentnie przyjęto rok 2026 (pierwsza wypłata lipiec 2026, deklaracje za 2026 r.).
 
-![Zadanie 1 (a) – podsumowanie kreatora](zad1a.png)
+![Zadanie 1 (a) – dane podmiotu: urząd skarbowy Pierwszy US we Wrocławiu (kod 0229)](zad1a.png)
 
-![Zadanie 1 (b) – szef: Mikołaj Pawłoś](zad1b.png)
+![Zadanie 1 (b) – rachunek bankowy PL 80 8191 1042 7470 4772 1659 7489, stan początkowy 25 000 zł](zad1b.png)
 
 
 ## Zadanie 2
@@ -58,7 +58,7 @@ Dodani pracownicy Rafał Kucharski i Patrycja Sobczak (dane osobowe, adres, urz�
 
 ## Zadanie 3
 
-Umowy o pracę od 1.07.2026: Rafał Kucharski (zestaw Administracja, podstawa 6 600 zł + premia uznaniowa 650 zł) i Patrycja Sobczak (zestaw Robotnicy, podstawa 5 000 zł).
+Umowy o pracę od 1.07.2026: Rafał Kucharski (zestaw Administracja, podstawa 6 600 zł + premia uznaniowa 650 zł) i Patrycja Sobczak (zestaw Robotnicy, podstawa 5 000 zł). Obaj pracownicy mieszkają poza miejscowością zakładu pracy, dlatego w umowach (zakładka „Dodatkowe”) ustawiono koszty uzyskania przychodu „odliczać powiększone” – 300 zł miesięcznie.
 
 ![Zadanie 3](zad3.png)
 
@@ -94,7 +94,7 @@ Wygenerowane deklaracje ZUS ZUA (zgłoszenie do ubezpieczeń) dla obu pracownik�
 
 Wygenerowane listy płac za lipiec 2026 (Administracja i Robotnicy), wypłaty obu pracowników obliczone poprawnie.
 
-![Zadanie 7 (a) – raport z naliczenia wypłat](zad7a.png)
+![Zadanie 7 (a) – wypłata Rafała Kucharskiego za lipiec 2026 (6 600 + 650 zł, do wypłaty 5 277,98 zł)](zad7a.png)
 
 ![Zadanie 7 (b) – wypłaty za lipiec 2026](zad7b.png)
 
@@ -110,7 +110,7 @@ Absencja Rafała Kucharskiego: urlop wypoczynkowy 10–13.08.2026 (4 dni). Progr
 
 Absencja Patrycji Sobczak: choroba 18–23.08.2026, kod choroby A, nr zwolnienia XXX08/2026, data wpłynięcia 18.08.2026, kod świadczenia 313/331.
 
-![Zadanie 9 (a) – formularz absencji](zad9.png)
+![Zadanie 9 (a) – absencja chorobowa w kalendarzu (XXX08/2026, kod A, 331)](zad9.png)
 
 ![Zadanie 9 (b) – kalendarz sierpnia 2026](zad9b.png)
 
@@ -148,14 +148,14 @@ W programie istniała już gotowa stawka „Krzesło” (20 zł), a nazwa stawki
 
 ![Zadanie 13 (a) – stawka akordowa](zad13a.png)
 
-![Zadanie 13 (b) – wykonanie akordu](zad13b.png)
+![Zadanie 13 (b) – wykonanie akordu: 250 szt. × 5,00 zł = 1 250 zł, 31.08.2026](zad13b.png)
 
 
 ## Zadanie 14
 
 Dla pracowników zatrudnionych na umowę o pracę (Kucharski, Sobczak, Bielicka) wprowadzono wyjątek czasu pracy: dzień wolny za święto 15.08.2026 (sobota) odebrany 17.08.2026 (typ dnia wolnego WWŚ).
 
-![Zadanie 14 (a) – wyjątek czasu pracy](zad14a.png)
+![Zadanie 14 (a) – kalendarz Patrycji Sobczak: 17.08.2026 dzień wolny WWŚ (wyjątek)](zad14a.png)
 
 ![Zadanie 14 (b) – kalendarz Rafała Kucharskiego](zad14b.png)
 
@@ -164,7 +164,7 @@ Dla pracowników zatrudnionych na umowę o pracę (Kucharski, Sobczak, Bielicka)
 
 Sporządzono listy płac za sierpień 2026 oraz rachunek do umowy zlecenia (31.08.2026, brutto 3 000 zł, do wypłaty 2 106,72 zł).
 
-![Zadanie 15 (a) – raport z naliczenia wypłat](zad15a.png)
+![Zadanie 15 (a) – wypłata Rafała Kucharskiego za sierpień 2026](zad15a.png)
 
 ![Zadanie 15 (b) – wypłaty](zad15b.png)
 
@@ -173,7 +173,7 @@ Sporządzono listy płac za sierpień 2026 oraz rachunek do umowy zlecenia (31.0
 
 ## Zadanie 16
 
-Wygenerowana deklaracja „Zaliczka miesięczna od wypłat PIT” za sierpień 2026 (3 podatników).
+Wygenerowana deklaracja „Zaliczka miesięczna od wypłat PIT” za sierpień 2026 – 4 podatników (3 z umów o pracę w części C.1 oraz 1 z umowy zlecenia), łączna zaliczka 1 176 zł.
 
 ![Zadanie 16](zad16.png)
 
@@ -189,7 +189,7 @@ Wygenerowane naliczenie rozliczeniowe ZUS za sierpień 2026: RCA, RSA i DRA.
 
 Zmiana wysokości podstawy miesięcznej Rafała Kucharskiego na 7 000 zł od 1.10.2026 (wartość składnika z datą obowiązywania od 1.10.2026 w umowie o pracę).
 
-![Zadanie 18](zad18a.png)
+![Zadanie 18 – historia wartości składnika „Podstawa miesięczna”](zad18a.png)
 
 
 ## Zadanie 19
@@ -221,7 +221,7 @@ Umowa o pracę Patrycji Sobczak rozwiązana z dniem 30.09.2026, przyczyna: „10
 
 ## Zadanie 22
 
-Naliczono ekwiwalent za urlop na dzień 30.09.2026 (składniki stałe z bieżącego miesiąca, zmienne z 3 miesięcy), wypłacany w wypłacie za wrzesień 2026. W zadaniu nie podano liczby godzin, więc przyjęto 56 h (7 dni po 8 h – proporcjonalnie do 3 miesięcy zatrudnienia). Podgląd świadectwa pracy za okres 1.07–30.09.2026.
+Naliczono ekwiwalent za urlop na dzień 30.09.2026 (składniki stałe z bieżącego miesiąca, zmienne z 3 miesięcy), wypłacany w wypłacie za wrzesień 2026. Liczbę godzin ustalono proporcjonalnie do okresu zatrudnienia: 26 dni urlopu rocznie × 3/12 = 6,5 dnia, po zaokrągleniu w górę do pełnego dnia – 7 dni × 8 h = 56 h. Podgląd świadectwa pracy za okres 1.07–30.09.2026.
 
 ![Zadanie 22 (a) – ekwiwalent za urlop](zad22a.png)
 
@@ -232,18 +232,18 @@ Naliczono ekwiwalent za urlop na dzień 30.09.2026 (składniki stałe z bieżąc
 
 Wygenerowana deklaracja ZUS ZWUA wyrejestrowująca Patrycję Sobczak: data zgłoszenia 30.09.2026, data wyrejestrowania 1.10.2026, kod rozwiązania stosunku pracy „24R – wypowiedzenie przez pracownika”.
 
-![Zadanie 23](zad23a.png)
+![Zadanie 23 – deklaracja ZWUA Patrycji Sobczak (kod 100, 24R)](zad23a.png)
 
 
 ## Zadanie 24
 
 Listy płac za wrzesień 2026 (Administracja, Robotnicy, Pion oprogramowania) oraz rachunek do umowy zlecenia (30.09.2026, 3 000 zł brutto). Pierwotnie wypłata Dariusza Tycha wyszła zerowa, bo składnik „Podstawa miesięczna” nie był przypisany do jego definicji wypłaty – po przypisaniu (zadanie 19) wypłata została wygenerowana ponownie (4 091,20 zł brutto za część miesiąca).
 
-![Zadanie 24 (a) – raport z naliczenia wypłat](zad24a.png)
+![Zadanie 24 (a) – wypłata Patrycji Sobczak za wrzesień 2026 (z ekwiwalentem za urlop)](zad24a.png)
 
 ![Zadanie 24 (b) – wypłaty](zad24b.png)
 
-![Zadanie 24 (c) – rachunek](zad24c.png)
+![Zadanie 24 (c) – rachunki do umowy zlecenia (w tym 30.09.2026)](zad24c.png)
 
 
 ## Zadanie 25
@@ -259,7 +259,7 @@ Zaświadczenie o zatrudnieniu i wynagrodzeniu Rafała Kucharskiego z datą 1.10.
 
 Absencja chorobowa Rafała Kucharskiego 1.10–9.11.2026 (40 dni): kod choroby A, nr zwolnienia ZZB10/2026, data wpłynięcia 1.10.2026, kod świadczenia 313/331 (wyznaczony automatycznie). Program poinformował, że wynagrodzenie chorobowe przysługuje za 33 dni.
 
-![Zadanie 26 (a) – formularz absencji](zad26a.png)
+![Zadanie 26 (a) – absencja chorobowa w kalendarzu (ZZB10/2026, kod A, 331)](zad26a.png)
 
 ![Zadanie 26 (b) – kalendarz października 2026](zad26b.png)
 
@@ -288,16 +288,16 @@ Wygenerowane zaświadczenie ZUS Z-3 (wersja 8) dla absencji zasiłkowej Rafała 
 
 Dodatkowa lista płac „Premia roczna” nr 1/12/2026, wypłacona 31.12.2026, dla wszystkich pracowników zatrudnionych na umowę o pracę (Bielicka, Kucharski, Tych) – składnik „Premia uznaniowa” 800 zł; w sekcji rozliczenia zaznaczono wszystkie dostępne opcje (pole „wypłaty główne” jest w tym kreatorze nieaktywne).
 
-![Zadanie 29 (a) – opcje rozliczenia](zad29a.png)
+![Zadanie 29 (a) – dane listy płac „Premia roczna” 1/12/2026 (wypłata 31.12.2026)](zad29a.png)
 
-![Zadanie 29 (b) – wartości składnika](zad29b.png)
+![Zadanie 29 (b) – wypłata premii Rafała Kucharskiego: premia uznaniowa 800 zł](zad29b.png)
 
 ![Zadanie 29 (c) – wypłaty](zad29c.png)
 
 
 ## Zadanie 30
 
-Wygenerowane deklaracje PIT-11 za rok 2026 dla wszystkich pięciu pracowników: Bielicka, Kucharski, Przybył, Sobczak, Tych. Program ostrzega, że dla urzędów skarbowych w Trzebnicy i Legnicy (wprowadzonych w zadaniu 2) brakuje kodu US wymaganego do wysyłki elektronicznej – nie blokuje to wyliczenia deklaracji.
+Wygenerowane deklaracje PIT-11 za rok 2026 dla wszystkich pięciu pracowników: Bielicka, Kucharski, Przybył, Sobczak, Tych. Panel kontrolny deklaracji nie wykazuje problemów.
 
 ![Zadanie 30 (a) – PIT-11](zad30a.png)
 
