@@ -124,37 +124,51 @@ Do dokumentu „Informacja o warunkach zatrudnienia (z regul.)” dodano punkt 6
 
 ## Zadanie 11
 
-![Zadanie 11 (a)](zad11a.png)
+Dodano pracownika Andrzeja Przybyła i jego umowę zlecenia (1.08–31.12.2026, kwota rachunku 3 000 zł, tytuł ubezpieczenia 0411, koszty 20%, zryczałtowany podatek 12%, treść: umowa zlecenia doraźnego). W programie lista dni miesiąca w harmonogramie kończy się na 28., dlatego rachunek cykliczny ustawiono na 28. dzień miesiąca (brak opcji „ostatni dzień”).
 
-![Zadanie 11 (b)](zad11b.png)
+![Zadanie 11 (a) – parametry rachunku w umowie zlecenia](zad11a.png)
 
-![Zadanie 11 (c)](zad11c.png)
+![Zadanie 11 (b) – lista umów cywilnoprawnych](zad11b.png)
 
 
 ## Zadanie 12
 
-![Zadanie 12 (a)](zad12a.png)
+Dodano pracownika Kacpra Bielickiego (w zadaniu: „Kacper Bielicka”) i umowę o pracę na czas określony 1.08.2026–31.01.2027 (zestaw Robotnicy, dział Produkcja, stolarz, podstawa 5 500 zł, ulga podatkowa 1/12). Wygenerowano deklaracje ZUA dla pracowników z zadań 11 i 12.
 
-![Zadanie 12 (b)](zad12b.png)
+![Zadanie 12 (a) – ustawienia podatkowe umowy](zad12a.png)
+
+![Zadanie 12 (b) – lista umów o pracę](zad12b.png)
+
+![Zadanie 12 (c) – naliczenie zgłoszeniowe ZUS](zad12c.png)
 
 
 ## Zadanie 13
 
-![Zadanie 13 (a)](zad13a.png)
+W programie istniała już gotowa stawka „Krzesło” (20 zł), a nazwa stawki musi być unikalna, więc dodano nową stawkę liniową „krzesło - zestaw stolarza” (5 zł za sztukę). Wykonanie akordu: 250 szt. na dzień 31.08.2026, rozliczenie automatyczne – wartość 1 250 zł.
 
-![Zadanie 13 (b)](zad13b.png)
+![Zadanie 13 (a) – stawka akordowa](zad13a.png)
+
+![Zadanie 13 (b) – wykonanie akordu](zad13b.png)
 
 
 ## Zadanie 14
 
-![Zadanie 14 (a)](zad14a.png)
+Dla pracowników zatrudnionych na umowę o pracę (Kucharski, Sobczak, Bielicka) wprowadzono wyjątek czasu pracy: dzień wolny za święto 15.08.2026 (sobota) odebrany 17.08.2026 (typ dnia wolnego WWŚ).
 
-![Zadanie 14 (b)](zad14b.png)
+![Zadanie 14 (a) – wyjątek czasu pracy](zad14a.png)
+
+![Zadanie 14 (b) – kalendarz Rafała Kucharskiego](zad14b.png)
 
 
 ## Zadanie 15
 
-![Zadanie 15 (a)](zad15a.png)
+Sporządzono listy płac za sierpień 2026 oraz rachunek do umowy zlecenia (31.08.2026, brutto 3 000 zł, do wypłaty 2 106,72 zł).
+
+![Zadanie 15 (a) – raport z naliczenia wypłat](zad15a.png)
+
+![Zadanie 15 (b) – wypłaty](zad15b.png)
+
+![Zadanie 15 (c) – rachunek](zad15c.png)
 
 
 ## Zadanie 16
