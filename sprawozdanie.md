@@ -42,8 +42,6 @@
 
 ## Zadanie 1
 
-Dane firmy PHU Szkolenie sp. z o.o. wprowadzone kreatorem (szef: Mikołaj Pawłoś, identyfikator MP; pierwsza wypłata: lipiec 2026; zasiłki wypłaca ZUS; składki do 15. dnia następnego miesiąca). W zadaniu nie podano numeru NIP („NIP szkoły”), więc użyto numeru przykładowego 521-000-00-03. Uwaga: w treści zadań podany jest rok 2023, ale w całym sprawozdaniu konsekwentnie przyjęto rok 2026 (pierwsza wypłata lipiec 2026, deklaracje za 2026 r.).
-
 ![Zadanie 1 (a) – dane podmiotu: urząd skarbowy Pierwszy US we Wrocławiu (kod 0229)](zad1a.png)
 
 ![Zadanie 1 (b) – rachunek bankowy PL 80 8191 1042 7470 4772 1659 7489, stan początkowy 25 000 zł](zad1b.png)
@@ -51,21 +49,15 @@ Dane firmy PHU Szkolenie sp. z o.o. wprowadzone kreatorem (szef: Mikołaj Pawło
 
 ## Zadanie 2
 
-Dodani pracownicy Rafał Kucharski i Patrycja Sobczak (dane osobowe, adres, urząd skarbowy, NFZ, wykształcenie).
-
 ![Zadanie 2](zad2.png)
 
 
 ## Zadanie 3
 
-Umowy o pracę od 1.07.2026: Rafał Kucharski (zestaw Administracja, podstawa 6 600 zł + premia uznaniowa 650 zł) i Patrycja Sobczak (zestaw Robotnicy, podstawa 5 000 zł). Obaj pracownicy mieszkają poza miejscowością zakładu pracy, dlatego w umowach (zakładka „Dodatkowe”) ustawiono koszty uzyskania przychodu „odliczać powiększone” – 300 zł miesięcznie.
-
 ![Zadanie 3](zad3.png)
 
 
 ## Zadanie 4
-
-Wygenerowane deklaracje PIT-2 za rok 2026 dla obu pracowników.
 
 ![Zadanie 4 (a) – PIT-2 Rafała Kucharskiego](zad4a.png)
 
@@ -74,8 +66,6 @@ Wygenerowane deklaracje PIT-2 za rok 2026 dla obu pracowników.
 
 ## Zadanie 5
 
-W obu umowach ustawiono uprawnienie do ulgi podatkowej: odliczać 1/12.
-
 ![Zadanie 5 (a) – Rafał Kucharski](zad5a.png)
 
 ![Zadanie 5 (b) – Patrycja Sobczak](zad5b.png)
@@ -83,7 +73,6 @@ W obu umowach ustawiono uprawnienie do ulgi podatkowej: odliczać 1/12.
 
 ## Zadanie 6
 
-Wygenerowane deklaracje ZUS ZUA (zgłoszenie do ubezpieczeń) dla obu pracowników, data powstania obowiązku 1.07.2026.
 
 ![Zadanie 6 (a) – naliczenie zgłoszeniowe z dwiema deklaracjami ZUA](zad6a.png)
 
@@ -92,7 +81,6 @@ Wygenerowane deklaracje ZUS ZUA (zgłoszenie do ubezpieczeń) dla obu pracownik�
 
 ## Zadanie 7
 
-Wygenerowane listy płac za lipiec 2026 (Administracja i Robotnicy), wypłaty obu pracowników obliczone poprawnie.
 
 ![Zadanie 7 (a) – wypłata Rafała Kucharskiego za lipiec 2026 (6 600 + 650 zł, do wypłaty 5 277,98 zł)](zad7a.png)
 
@@ -101,14 +89,12 @@ Wygenerowane listy płac za lipiec 2026 (Administracja i Robotnicy), wypłaty ob
 
 ## Zadanie 8
 
-Absencja Rafała Kucharskiego: urlop wypoczynkowy 10–13.08.2026 (4 dni). Program ostrzegł, że wymiar należnego urlopu jest mniejszy od wykorzystywanego (pracownik zatrudniony od lipca); zapis zatwierdzono zgodnie z poleceniem.
 
 ![Zadanie 8](zad8.png)
 
 
 ## Zadanie 9
 
-Absencja Patrycji Sobczak: choroba 18–23.08.2026, kod choroby A, nr zwolnienia XXX08/2026, data wpłynięcia 18.08.2026, kod świadczenia 313/331.
 
 ![Zadanie 9 (a) – absencja chorobowa w kalendarzu (XXX08/2026, kod A, 331)](zad9.png)
 
@@ -117,14 +103,12 @@ Absencja Patrycji Sobczak: choroba 18–23.08.2026, kod choroby A, nr zwolnienia
 
 ## Zadanie 10
 
-Do dokumentu „Informacja o warunkach zatrudnienia (z regul.)” dodano punkt 6): „sposób potwierdzania przez pracowników przybycia i obecności w pracy: podpis na liście obecności”.
 
 ![Zadanie 10](zad10.png)
 
 
 ## Zadanie 11
 
-Dodano pracownika Andrzeja Przybyła i jego umowę zlecenia (1.08–31.12.2026, kwota rachunku 3 000 zł, tytuł ubezpieczenia 0411, koszty 20%, zryczałtowany podatek 12%, treść: umowa zlecenia doraźnego). W programie lista dni miesiąca w harmonogramie kończy się na 28., dlatego rachunek cykliczny ustawiono na 28. dzień miesiąca (brak opcji „ostatni dzień”).
 
 ![Zadanie 11 (a) – parametry rachunku w umowie zlecenia](zad11a.png)
 
@@ -133,7 +117,6 @@ Dodano pracownika Andrzeja Przybyła i jego umowę zlecenia (1.08–31.12.2026, 
 
 ## Zadanie 12
 
-Dodano pracownika Kacpra Bielickiego (w zadaniu: „Kacper Bielicka”) i umowę o pracę na czas określony 1.08.2026–31.01.2027 (zestaw Robotnicy, dział Produkcja, stolarz, podstawa 5 500 zł, ulga podatkowa 1/12). Wygenerowano deklaracje ZUA dla pracowników z zadań 11 i 12.
 
 ![Zadanie 12 (a) – ustawienia podatkowe umowy](zad12a.png)
 
@@ -144,7 +127,6 @@ Dodano pracownika Kacpra Bielickiego (w zadaniu: „Kacper Bielicka”) i umowę
 
 ## Zadanie 13
 
-W programie istniała już gotowa stawka „Krzesło” (20 zł), a nazwa stawki musi być unikalna, więc dodano nową stawkę liniową „krzesło - zestaw stolarza” (5 zł za sztukę). Wykonanie akordu: 250 szt. na dzień 31.08.2026, rozliczenie automatyczne – wartość 1 250 zł.
 
 ![Zadanie 13 (a) – stawka akordowa](zad13a.png)
 
@@ -153,7 +135,6 @@ W programie istniała już gotowa stawka „Krzesło” (20 zł), a nazwa stawki
 
 ## Zadanie 14
 
-Dla pracowników zatrudnionych na umowę o pracę (Kucharski, Sobczak, Bielicka) wprowadzono wyjątek czasu pracy: dzień wolny za święto 15.08.2026 (sobota) odebrany 17.08.2026 (typ dnia wolnego WWŚ).
 
 ![Zadanie 14 (a) – kalendarz Patrycji Sobczak: 17.08.2026 dzień wolny WWŚ (wyjątek)](zad14a.png)
 
@@ -162,7 +143,6 @@ Dla pracowników zatrudnionych na umowę o pracę (Kucharski, Sobczak, Bielicka)
 
 ## Zadanie 15
 
-Sporządzono listy płac za sierpień 2026 oraz rachunek do umowy zlecenia (31.08.2026, brutto 3 000 zł, do wypłaty 2 106,72 zł).
 
 ![Zadanie 15 (a) – wypłata Rafała Kucharskiego za sierpień 2026](zad15a.png)
 
@@ -173,28 +153,24 @@ Sporządzono listy płac za sierpień 2026 oraz rachunek do umowy zlecenia (31.0
 
 ## Zadanie 16
 
-Wygenerowana deklaracja „Zaliczka miesięczna od wypłat PIT” za sierpień 2026 – 4 podatników (3 z umów o pracę w części C.1 oraz 1 z umowy zlecenia), łączna zaliczka 1 176 zł.
 
 ![Zadanie 16](zad16.png)
 
 
 ## Zadanie 17
 
-Wygenerowane naliczenie rozliczeniowe ZUS za sierpień 2026: RCA, RSA i DRA.
 
 ![Zadanie 17](zad17.png)
 
 
 ## Zadanie 18
 
-Zmiana wysokości podstawy miesięcznej Rafała Kucharskiego na 7 000 zł od 1.10.2026 (wartość składnika z datą obowiązywania od 1.10.2026 w umowie o pracę).
 
 ![Zadanie 18 – historia wartości składnika „Podstawa miesięczna”](zad18a.png)
 
 
 ## Zadanie 19
 
-Dodano pracownika Dariusza Tycha, nową definicję listy płac „Pion oprogramowania” (wypłata ostatniego dnia miesiąca, zaliczka do 20., składki do 15. dnia następnego miesiąca) oraz umowę o pracę 15.09.2026–31.01.2027 (dział Oprogramowanie, programista, podstawa 7 500 zł, ulga 1/12) z definicją wypłaty „Pion oprogramowania” (wypłata główna, naliczenia i potrącenia, potrącenia komornicze, uzupełnienie do płacy minimalnej, wszystkie miesiące).
 
 ![Zadanie 19 (a) – definicja listy płac](zad19a.png)
 
@@ -205,14 +181,12 @@ Dodano pracownika Dariusza Tycha, nową definicję listy płac „Pion oprogramo
 
 ## Zadanie 20
 
-Wygenerowana deklaracja ZUS ZUA (zgłoszenie do ubezpieczeń) dla Dariusza Tycha, data powstania obowiązku 15.09.2026.
 
 ![Zadanie 20](zad20.png)
 
 
 ## Zadanie 21
 
-Umowa o pracę Patrycji Sobczak rozwiązana z dniem 30.09.2026, przyczyna: „100 – Porozumienie stron art. 30 § 1 pkt 1 k.p.” (Operacje → Rozwiąż umowę).
 
 ![Zadanie 21 (a) – rozwiązanie umowy](zad21a.png)
 
@@ -221,7 +195,6 @@ Umowa o pracę Patrycji Sobczak rozwiązana z dniem 30.09.2026, przyczyna: „10
 
 ## Zadanie 22
 
-Naliczono ekwiwalent za urlop na dzień 30.09.2026 (składniki stałe z bieżącego miesiąca, zmienne z 3 miesięcy), wypłacany w wypłacie za wrzesień 2026. Liczbę godzin ustalono proporcjonalnie do okresu zatrudnienia: 26 dni urlopu rocznie × 3/12 = 6,5 dnia, po zaokrągleniu w górę do pełnego dnia – 7 dni × 8 h = 56 h. Podgląd świadectwa pracy za okres 1.07–30.09.2026.
 
 ![Zadanie 22 (a) – ekwiwalent za urlop](zad22a.png)
 
@@ -230,14 +203,11 @@ Naliczono ekwiwalent za urlop na dzień 30.09.2026 (składniki stałe z bieżąc
 
 ## Zadanie 23
 
-Wygenerowana deklaracja ZUS ZWUA wyrejestrowująca Patrycję Sobczak: data zgłoszenia 30.09.2026, data wyrejestrowania 1.10.2026, kod rozwiązania stosunku pracy „24R – wypowiedzenie przez pracownika”.
 
 ![Zadanie 23 – deklaracja ZWUA Patrycji Sobczak (kod 100, 24R)](zad23a.png)
 
 
 ## Zadanie 24
-
-Listy płac za wrzesień 2026 (Administracja, Robotnicy, Pion oprogramowania) oraz rachunek do umowy zlecenia (30.09.2026, 3 000 zł brutto). Pierwotnie wypłata Dariusza Tycha wyszła zerowa, bo składnik „Podstawa miesięczna” nie był przypisany do jego definicji wypłaty – po przypisaniu (zadanie 19) wypłata została wygenerowana ponownie (4 091,20 zł brutto za część miesiąca).
 
 ![Zadanie 24 (a) – wypłata Patrycji Sobczak za wrzesień 2026 (z ekwiwalentem za urlop)](zad24a.png)
 
@@ -248,7 +218,6 @@ Listy płac za wrzesień 2026 (Administracja, Robotnicy, Pion oprogramowania) or
 
 ## Zadanie 25
 
-Zaświadczenie o zatrudnieniu i wynagrodzeniu Rafała Kucharskiego z datą 1.10.2026, wynagrodzenie brutto z okresu 1.07–30.09.2026 jako suma (wg miesiąca wypłaty): 21 620,08 zł.
 
 ![Zadanie 25 (a) – ustawienia wydruku](zad25a.png)
 
@@ -257,7 +226,6 @@ Zaświadczenie o zatrudnieniu i wynagrodzeniu Rafała Kucharskiego z datą 1.10.
 
 ## Zadanie 26
 
-Absencja chorobowa Rafała Kucharskiego 1.10–9.11.2026 (40 dni): kod choroby A, nr zwolnienia ZZB10/2026, data wpłynięcia 1.10.2026, kod świadczenia 313/331 (wyznaczony automatycznie). Program poinformował, że wynagrodzenie chorobowe przysługuje za 33 dni.
 
 ![Zadanie 26 (a) – absencja chorobowa w kalendarzu (ZZB10/2026, kod A, 331)](zad26a.png)
 
@@ -266,7 +234,6 @@ Absencja chorobowa Rafała Kucharskiego 1.10–9.11.2026 (40 dni): kod choroby A
 
 ## Zadanie 27
 
-Wygenerowane listy płac za październik, listopad i grudzień 2026 oraz rachunki do umowy zlecenia (31.10, 30.11 i 31.12.2026, każdy 3 000 zł brutto). Patrycja Sobczak nie występuje na listach – jej umowa wygasła 30.09.2026.
 
 ![Zadanie 27 (a) – raport z naliczenia za grudzień](zad27a.png)
 
@@ -277,7 +244,6 @@ Wygenerowane listy płac za październik, listopad i grudzień 2026 oraz rachunk
 
 ## Zadanie 28
 
-Wygenerowane zaświadczenie ZUS Z-3 (wersja 8) dla absencji zasiłkowej Rafała Kucharskiego (1.10–9.11.2026, ZZB10/2026). Panel kontrolny wskazuje pola do ręcznego uzupełnienia (opcje, których zadanie nie określa).
 
 ![Zadanie 28 (a) – początek formularza Z-3](zad28a.png)
 
@@ -285,8 +251,6 @@ Wygenerowane zaświadczenie ZUS Z-3 (wersja 8) dla absencji zasiłkowej Rafała 
 
 
 ## Zadanie 29
-
-Dodatkowa lista płac „Premia roczna” nr 1/12/2026, wypłacona 31.12.2026, dla wszystkich pracowników zatrudnionych na umowę o pracę (Bielicka, Kucharski, Tych) – składnik „Premia uznaniowa” 800 zł; w sekcji rozliczenia zaznaczono wszystkie dostępne opcje (pole „wypłaty główne” jest w tym kreatorze nieaktywne).
 
 ![Zadanie 29 (a) – dane listy płac „Premia roczna” 1/12/2026 (wypłata 31.12.2026)](zad29a.png)
 
@@ -296,8 +260,6 @@ Dodatkowa lista płac „Premia roczna” nr 1/12/2026, wypłacona 31.12.2026, d
 
 
 ## Zadanie 30
-
-Wygenerowane deklaracje PIT-11 za rok 2026 dla wszystkich pięciu pracowników: Bielicka, Kucharski, Przybył, Sobczak, Tych. Panel kontrolny deklaracji nie wykazuje problemów.
 
 ![Zadanie 30 (a) – PIT-11](zad30a.png)
 
