@@ -257,35 +257,49 @@ Zaświadczenie o zatrudnieniu i wynagrodzeniu Rafała Kucharskiego z datą 1.10.
 
 ## Zadanie 26
 
-![Zadanie 26 (a)](zad26a.png)
+Absencja chorobowa Rafała Kucharskiego 1.10–9.11.2026 (40 dni): kod choroby A, nr zwolnienia ZZB10/2026, data wpłynięcia 1.10.2026, kod świadczenia 313/331 (wyznaczony automatycznie). Program poinformował, że wynagrodzenie chorobowe przysługuje za 33 dni.
 
-![Zadanie 26 (b)](zad26b.png)
+![Zadanie 26 (a) – formularz absencji](zad26a.png)
+
+![Zadanie 26 (b) – kalendarz października 2026](zad26b.png)
 
 
 ## Zadanie 27
 
-![Zadanie 27 (a)](zad27a.png)
+Wygenerowane listy płac za październik, listopad i grudzień 2026 oraz rachunki do umowy zlecenia (31.10, 30.11 i 31.12.2026, każdy 3 000 zł brutto). Patrycja Sobczak nie występuje na listach – jej umowa wygasła 30.09.2026.
 
-![Zadanie 27 (b)](zad27b.png)
+![Zadanie 27 (a) – raport z naliczenia za grudzień](zad27a.png)
+
+![Zadanie 27 (b) – wypłaty](zad27b.png)
+
+![Zadanie 27 (c) – rachunki](zad27c.png)
 
 
 ## Zadanie 28
 
-![Zadanie 28](zad28.png)
+Wygenerowane zaświadczenie ZUS Z-3 (wersja 8) dla absencji zasiłkowej Rafała Kucharskiego (1.10–9.11.2026, ZZB10/2026). Panel kontrolny wskazuje pola do ręcznego uzupełnienia (opcje, których zadanie nie określa).
 
-Umorzenie wynosi **5 033,34 zł**.
+![Zadanie 28 (a) – początek formularza Z-3](zad28a.png)
+
+![Zadanie 28 (b) – dane płatnika i osoby ubezpieczonej](zad28b.png)
 
 
 ## Zadanie 29
 
-![Zadanie 29](zad29bilans.png)
+Dodatkowa lista płac „Premia roczna” nr 1/12/2026, wypłacona 31.12.2026, dla wszystkich pracowników zatrudnionych na umowę o pracę (Bielicka, Kucharski, Tych) – składnik „Premia uznaniowa” 800 zł; w sekcji rozliczenia zaznaczono wszystkie dostępne opcje (pole „wypłaty główne” jest w tym kreatorze nieaktywne).
 
-Dochód wynosi **86 860,66 zł**.
+![Zadanie 29 (a) – opcje rozliczenia](zad29a.png)
+
+![Zadanie 29 (b) – wartości składnika](zad29b.png)
+
+![Zadanie 29 (c) – wypłaty](zad29c.png)
 
 
 ## Zadanie 30
 
-![Zadanie 30 (a)](zad28b.png)
+Wygenerowane deklaracje PIT-11 za rok 2026 dla wszystkich pięciu pracowników: Bielicka, Kucharski, Przybył, Sobczak, Tych. Program ostrzega, że dla urzędów skarbowych w Trzebnicy i Legnicy (wprowadzonych w zadaniu 2) brakuje kodu US wymaganego do wysyłki elektronicznej – nie blokuje to wyliczenia deklaracji.
 
-![Zadanie 30 (b)](zad30.png)
+![Zadanie 30 (a) – PIT-11](zad30a.png)
+
+![Zadanie 30 (b) – lista deklaracji](zad30b.png)
 
