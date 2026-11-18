@@ -1,4 +1,4 @@
-# Sprawozdanie – Rachmistrz GT
+# Sprawozdanie – Gratyfikant GT
 
 | | 
 |---|
@@ -42,31 +42,43 @@
 
 ## Zadanie 1
 
-![Zadanie 1](zad1.png)
+Dane firmy PHU Szkolenie sp. z o.o. wprowadzone kreatorem (szef: Mikołaj Pawłoś, identyfikator MP; pierwsza wypłata: lipiec 2026; zasiłki wypłaca ZUS; składki do 15. dnia następnego miesiąca). W zadaniu nie podano numeru NIP („NIP szkoły”), więc użyto numeru przykładowego 521-000-00-03.
+
+![Zadanie 1 (a) – podsumowanie kreatora](zad1a.png)
+
+![Zadanie 1 (b) – szef: Mikołaj Pawłoś](zad1b.png)
 
 
 ## Zadanie 2
 
+Dodani pracownicy Rafał Kucharski i Patrycja Sobczak (dane osobowe, adres, urząd skarbowy, NFZ, wykształcenie).
+
 ![Zadanie 2](zad2.png)
-
-![Zadanie 2 (a)](zad2a.png)
-
-![Zadanie 2 (b)](zad2b.png)
 
 
 ## Zadanie 3
+
+Umowy o pracę od 1.07.2026: Rafał Kucharski (zestaw Administracja, podstawa 6 600 zł + premia uznaniowa 650 zł) i Patrycja Sobczak (zestaw Robotnicy, podstawa 5 000 zł).
 
 ![Zadanie 3](zad3.png)
 
 
 ## Zadanie 4
 
-![Zadanie 4](Zad4.png)
+Wygenerowane deklaracje PIT-2 za rok 2026 dla obu pracowników.
+
+![Zadanie 4 (a) – PIT-2 Rafała Kucharskiego](zad4a.png)
+
+![Zadanie 4 (b) – lista deklaracji](zad4b.png)
 
 
 ## Zadanie 5
 
-![Zadanie 5 (a)](zad5a.png)
+W obu umowach ustawiono uprawnienie do ulgi podatkowej: odliczać 1/12.
+
+![Zadanie 5 (a) – Rafał Kucharski](zad5a.png)
+
+![Zadanie 5 (b) – Patrycja Sobczak](zad5b.png)
 
 
 ## Zadanie 6
