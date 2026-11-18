@@ -173,37 +173,41 @@ Sporządzono listy płac za sierpień 2026 oraz rachunek do umowy zlecenia (31.0
 
 ## Zadanie 16
 
-![Zadanie 16 (a)](zad16a.png)
+Wygenerowana deklaracja „Zaliczka miesięczna od wypłat PIT” za sierpień 2026 (3 podatników).
+
+![Zadanie 16](zad16.png)
 
 
 ## Zadanie 17
 
-![Zadanie 17 (a)](zad17a.png)
+Wygenerowane naliczenie rozliczeniowe ZUS za sierpień 2026: RCA, RSA i DRA.
+
+![Zadanie 17](zad17.png)
 
 
 ## Zadanie 18
 
-![Zadanie 18 (a)](zad18a.png)
+Zmiana wysokości podstawy miesięcznej Rafała Kucharskiego na 7 000 zł od 1.10.2026 (wartość składnika z datą obowiązywania od 1.10.2026 w umowie o pracę).
 
-![Zadanie 18 (b)](zad18b.png)
+![Zadanie 18](zad18a.png)
 
 
 ## Zadanie 19
 
-![Zadanie 19 (a)](zad19a.png)
+Dodano pracownika Dariusza Tycha, nową definicję listy płac „Pion oprogramowania” (wypłata ostatniego dnia miesiąca, zaliczka do 20., składki do 15. dnia następnego miesiąca) oraz umowę o pracę 15.09.2026–31.01.2027 (dział Oprogramowanie, programista, podstawa 7 500 zł, ulga 1/12) z definicją wypłaty „Pion oprogramowania” (wypłata główna, naliczenia i potrącenia, potrącenia komornicze, uzupełnienie do płacy minimalnej, wszystkie miesiące).
 
-![Zadanie 19 (b)](zad19b.png)
+![Zadanie 19 (a) – definicja listy płac](zad19a.png)
 
-![Zadanie 19 (c)](zad19c.png)
+![Zadanie 19 (b) – definicja wypłaty](zad19b.png)
+
+![Zadanie 19 (c) – składnik płacowy w umowie](zad19c.png)
 
 
 ## Zadanie 20
 
-![Zadanie 20 (a)](zad20a.png)
+Wygenerowana deklaracja ZUS ZUA (zgłoszenie do ubezpieczeń) dla Dariusza Tycha, data powstania obowiązku 15.09.2026.
 
-![Zadanie 20 (b)](zad20b.png)
-
-![Zadanie 20 (c)](zad20c.png)
+![Zadanie 20](zad20.png)
 
 
 ## Zadanie 21
