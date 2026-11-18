@@ -212,41 +212,47 @@ Wygenerowana deklaracja ZUS ZUA (zgłoszenie do ubezpieczeń) dla Dariusza Tycha
 
 ## Zadanie 21
 
-![Zadanie 21](zad21.png)
+Umowa o pracę Patrycji Sobczak rozwiązana z dniem 30.09.2026, przyczyna: „100 – Porozumienie stron art. 30 § 1 pkt 1 k.p.” (Operacje → Rozwiąż umowę).
+
+![Zadanie 21 (a) – rozwiązanie umowy](zad21a.png)
+
+![Zadanie 21 (b) – lista umów z datą rozwiązania](zad21b.png)
 
 
 ## Zadanie 22
 
-![Zadanie 22 (a)](zad22a.png)
+Naliczono ekwiwalent za urlop na dzień 30.09.2026 (składniki stałe z bieżącego miesiąca, zmienne z 3 miesięcy), wypłacany w wypłacie za wrzesień 2026. W zadaniu nie podano liczby godzin, więc przyjęto 56 h (7 dni po 8 h – proporcjonalnie do 3 miesięcy zatrudnienia). Podgląd świadectwa pracy za okres 1.07–30.09.2026.
 
-![Zadanie 22 (b)](zad22b.png)
+![Zadanie 22 (a) – ekwiwalent za urlop](zad22a.png)
 
-![Zadanie 22 (c)](zad22c.png)
-
-![Zadanie 22 (d)](zad22d.png)
+![Zadanie 22 (b) – świadectwo pracy (podgląd)](zad22b.png)
 
 
 ## Zadanie 23
 
-![Zadanie 23 (a)](zad23a.png)
+Wygenerowana deklaracja ZUS ZWUA wyrejestrowująca Patrycję Sobczak: data zgłoszenia 30.09.2026, data wyrejestrowania 1.10.2026, kod rozwiązania stosunku pracy „24R – wypowiedzenie przez pracownika”.
 
-![Zadanie 23 (b)](zad23b.png)
+![Zadanie 23](zad23a.png)
 
 
 ## Zadanie 24
 
-![Zadanie 24](zad24.png)
+Listy płac za wrzesień 2026 (Administracja, Robotnicy, Pion oprogramowania) oraz rachunek do umowy zlecenia (30.09.2026, 3 000 zł brutto). Pierwotnie wypłata Dariusza Tycha wyszła zerowa, bo składnik „Podstawa miesięczna” nie był przypisany do jego definicji wypłaty – po przypisaniu (zadanie 19) wypłata została wygenerowana ponownie (4 091,20 zł brutto za część miesiąca).
 
-![Zadanie 24 (b)](zad24b.png)
+![Zadanie 24 (a) – raport z naliczenia wypłat](zad24a.png)
 
-![Zadanie 24 (c)](zad24c.png)
+![Zadanie 24 (b) – wypłaty](zad24b.png)
+
+![Zadanie 24 (c) – rachunek](zad24c.png)
 
 
 ## Zadanie 25
 
-![Zadanie 25 (a)](zad25a.png)
+Zaświadczenie o zatrudnieniu i wynagrodzeniu Rafała Kucharskiego z datą 1.10.2026, wynagrodzenie brutto z okresu 1.07–30.09.2026 jako suma (wg miesiąca wypłaty): 21 620,08 zł.
 
-![Zadanie 25 (b)](zad25b.png)
+![Zadanie 25 (a) – ustawienia wydruku](zad25a.png)
+
+![Zadanie 25 (b) – podgląd zaświadczenia](zad25b.png)
 
 
 ## Zadanie 26
