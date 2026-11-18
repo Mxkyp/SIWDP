@@ -83,39 +83,43 @@ W obu umowach ustawiono uprawnienie do ulgi podatkowej: odliczać 1/12.
 
 ## Zadanie 6
 
-![Zadanie 6 (a)](zad6a.png)
+Wygenerowane deklaracje ZUS ZUA (zgłoszenie do ubezpieczeń) dla obu pracowników, data powstania obowiązku 1.07.2026.
 
-![Zadanie 6 (b)](zad6b.png)
+![Zadanie 6 (a) – naliczenie zgłoszeniowe z dwiema deklaracjami ZUA](zad6a.png)
 
-![Zadanie 6 (c)](zad6c.png)
-
-![Zadanie 6 (d)](zad6d.png)
-
-![Zadanie 6 (e)](zad6e.png)
-
-![Zadanie 6 (f)](zad6f.png)
+![Zadanie 6 (b) – lista deklaracji ZUS](zad6b.png)
 
 
 ## Zadanie 7
 
-![Zadanie 7](zad7.png)
+Wygenerowane listy płac za lipiec 2026 (Administracja i Robotnicy), wypłaty obu pracowników obliczone poprawnie.
+
+![Zadanie 7 (a) – raport z naliczenia wypłat](zad7a.png)
+
+![Zadanie 7 (b) – wypłaty za lipiec 2026](zad7b.png)
 
 
 ## Zadanie 8
+
+Absencja Rafała Kucharskiego: urlop wypoczynkowy 10–13.08.2026 (4 dni). Program ostrzegł, że wymiar należnego urlopu jest mniejszy od wykorzystywanego (pracownik zatrudniony od lipca); zapis zatwierdzono zgodnie z poleceniem.
 
 ![Zadanie 8](zad8.png)
 
 
 ## Zadanie 9
 
-![Zadanie 9](zad9.png)
+Absencja Patrycji Sobczak: choroba 18–23.08.2026, kod choroby A, nr zwolnienia XXX08/2026, data wpłynięcia 18.08.2026, kod świadczenia 313/331.
+
+![Zadanie 9 (a) – formularz absencji](zad9.png)
+
+![Zadanie 9 (b) – kalendarz sierpnia 2026](zad9b.png)
 
 
 ## Zadanie 10
 
-![Zadanie 10 (a)](zad10a.png)
+Do dokumentu „Informacja o warunkach zatrudnienia (z regul.)” dodano punkt 6): „sposób potwierdzania przez pracowników przybycia i obecności w pracy: podpis na liście obecności”.
 
-![Zadanie 10 (b)](zad10b.png)
+![Zadanie 10](zad10.png)
 
 
 ## Zadanie 11
