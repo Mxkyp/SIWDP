@@ -34,6 +34,9 @@
 - [Zadanie 25](#zadanie-25)
 - [Zadanie 26](#zadanie-26)
 - [Zadanie 27](#zadanie-27)
+- [Zadanie 28](#zadanie-28)
+- [Zadanie 29](#zadanie-29)
+- [Zadanie 30](#zadanie-30)
 
 <div style="page-break-after: always;"></div>
 
@@ -236,4 +239,29 @@
 ![Zadanie 27 (a) – zamówienie do dostawcy Hurtownia ALA z 27-08-2020 tylko na brakujące do ZK 3/08/2020 towary (stan: 006 – 7 szt., 007 – 8 szt., 009 – 0 szt.; 005 wystarcza): 006 ×4 po 22,00, 007 ×1 po 121,00, 009 ×16 po 60,17 zł; razem 1 441,22 zł](zad27a.png)
 
 ![Zadanie 27 (b) – lista zamówień do dostawców: zapisane ZD 4/08/2020 na 1 441,22 zł](zad27b.png)
+
+
+## Zadanie 28
+
+![Zadanie 28 (a) – operacja bankowa: wpłata na rachunek z 28.08.2020 od P.P.H.U Adam Gwiazda na 1 841,60 zł, tytułem „Zaliczka na ZK 3/08/2020(1841,60)”, dopisana do zaliczek](zad28a.png)
+
+![Zadanie 28 (b) – faktura VAT sprzedaży zaliczkowa cząstkowa do ZK 3/08/2020, data wystawienia i otrzymania zapłaty 28.08.2020, forma płatności: przedpłata 100% = 1 841,60 zł (faktura tylko na opłaconą część zamówienia o wartości 3 841,25 zł)](zad28b.png)
+
+![Zadanie 28 (c) – lista faktur sprzedaży: zapisana FS 4/08/2020 na 1 841,60 zł](zad28c.png)
+
+
+## Zadanie 29
+
+![Zadanie 29 (a) – faktura VAT zakupu do ZD 4/08/2020 od Hurtowni ALA, numer oryginału FS 1243/08/2020, data wystawienia, zakończenia dostawy i otrzymania 29.08.2020, kredyt kupiecki 7 dni (termin 05.09.2020); razem 1 441,22 zł](zad29a.png)
+
+![Zadanie 29 (b) – lista faktur zakupu: zapisana FZ 5/08/2020 (FS 1243/08/2020) na 1 441,22 zł](zad29b.png)
+
+
+## Zadanie 30
+
+![Zadanie 30 (a) – faktura VAT sprzedaży zaliczkowa końcowa do ZK 3/08/2020, data wystawienia i zakończenia dostawy 31.08.2020; wartość zamówienia 3 841,25 zł, rozliczona zaliczka 1 841,60 zł, pozostała część 1 999,65 zł opłacona kartą (płatność kartą 100%)](zad30a.png)
+
+![Zadanie 30 (b) – lista faktur sprzedaży: FS 5/08/2020 (faktura końcowa, 1 999,65 zł) obok faktury zaliczkowej FS 4/08/2020 (1 841,60 zł)](zad30c.png)
+
+![Zadanie 30 (c) – zamówienie ZK 3/08/2020 w całości zrealizowane (3 841,25 zł) z datą realizacji 31.08.2020](zad30b.png)
 
