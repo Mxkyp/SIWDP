@@ -10,6 +10,9 @@
 - [Zadanie 1](#zadanie-1)
 - [Zadanie 2](#zadanie-2)
 - [Zadanie 3](#zadanie-3)
+- [Zadanie 4](#zadanie-4)
+- [Zadanie 5](#zadanie-5)
+- [Zadanie 6](#zadanie-6)
 
 <div style="page-break-after: always;"></div>
 
@@ -40,4 +43,25 @@
 ![Zadanie 3 (c) – paragon 28.07.2020: 2 szt. napoju po 4,50 zł brutto, gotówka](zad3c.png)
 
 ![Zadanie 3 (d) – faktura sprzedaży FS 1/07/2020 dla Drogerii NOVUM, termin 7 dni](zad3d.png)
+
+
+## Zadanie 4
+
+![Zadanie 4 (a) – zamówienie od klienta ZK 1/08/2020 (Drogeria NOVUM, 01.08.2020, termin realizacji 04.08.2020, zamówienie telefoniczne)](zad4a.png)
+
+![Zadanie 4 (b) – lista zamówień od klientów](zad4b.png)
+
+
+## Zadanie 5
+
+![Zadanie 5 (a) – zamówienie do dostawcy ZD 1/08/2020 (Hurtownia ALA) – tylko brakujący towar 005–008 (pomadka 03 jest na stanie: 22 szt.)](zad5a.png)
+
+![Zadanie 5 (b) – lista zamówień do dostawców](zad5b.png)
+
+
+## Zadanie 6
+
+![Zadanie 6 (a) – przyjęcie zewnętrzne z Hurtowni ALA zrealizowane z ZD 1/08/2020, data 03.08.2020, numer oryginału WZ 567/08/2020](zad6a.png)
+
+![Zadanie 6 (b) – lista przyjęć magazynowych: zapisany dokument PZ 2/08/2020](zad6b.png)
 
