@@ -31,6 +31,9 @@
 - [Zadanie 22](#zadanie-22)
 - [Zadanie 23](#zadanie-23)
 - [Zadanie 24](#zadanie-24)
+- [Zadanie 25](#zadanie-25)
+- [Zadanie 26](#zadanie-26)
+- [Zadanie 27](#zadanie-27)
 
 <div style="page-break-after: always;"></div>
 
@@ -212,4 +215,25 @@
 ![Zadanie 24 (a) – nowi klienci w kartotece kontrahentów: 007 P.H.U Roman Pocieszak (Agrestowa 57, Wrocław), 008 ANNE-MAR sp.j. (Polna 6, Kraków), 009 P.P.H.U Adam Gwiazda (Żeromskiego 25, Trzebnica) wraz z NIP](zad24a.png)
 
 ![Zadanie 24 (b) – przykładowy rachunek bankowy klienta 009 (PL 56 1500 1881 2231 1796 1065 4232, Kredyt Bank SA O. w Gdyni); analogicznie dodano rachunki dla 007 i 008](zad24b.png)
+
+
+## Zadanie 25
+
+![Zadanie 25 (a) – kalkulacja cen towaru (przykład 001): cena kartotekowa z „Ceny z najmłodszej, istniejącej dostawy” (135,00 zł), poziom „Specjalna” – narzut 18% → 159,30 zł netto; analogicznie dla wszystkich 8 towarów (np. 002: 84,96, 003: 237,88, 007: 128,50 zł)](zad25a.png)
+
+![Zadanie 25 (b) – przypisanie poziomu cen „Specjalna” klientowi 006 P.H.U Jacek Pocieszak (zakładka Inne → Poziom cen przy sprzedaży); tak samo ustawiono dla 008 ANNE-MAR sp.j. i 009 P.P.H.U Adam Gwiazda](zad25b.png)
+
+
+## Zadanie 26
+
+![Zadanie 26 (a) – zamówienie od klienta zaliczkowe dla P.P.H.U Adam Gwiazda z 27-08-2020 (termin realizacji 27-08-2020), ceny z cennika „Specjalna”: 005 ×10, 006 ×11, 007 ×9 oraz nowy towar 009 Room X woda perfumowana 50 ml ×16 po 71,00 zł; razem 3 841,25 zł](zad26a.png)
+
+![Zadanie 26 (b) – lista zamówień od klientów: zapisane ZK 3/08/2020 (zamówienie zaliczkowe) na 3 841,25 zł](zad26b.png)
+
+
+## Zadanie 27
+
+![Zadanie 27 (a) – zamówienie do dostawcy Hurtownia ALA z 27-08-2020 tylko na brakujące do ZK 3/08/2020 towary (stan: 006 – 7 szt., 007 – 8 szt., 009 – 0 szt.; 005 wystarcza): 006 ×4 po 22,00, 007 ×1 po 121,00, 009 ×16 po 60,17 zł; razem 1 441,22 zł](zad27a.png)
+
+![Zadanie 27 (b) – lista zamówień do dostawców: zapisane ZD 4/08/2020 na 1 441,22 zł](zad27b.png)
 
