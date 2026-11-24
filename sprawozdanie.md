@@ -16,6 +16,9 @@
 - [Zadanie 7](#zadanie-7)
 - [Zadanie 8](#zadanie-8)
 - [Zadanie 9](#zadanie-9)
+- [Zadanie 10](#zadanie-10)
+- [Zadanie 11](#zadanie-11)
+- [Zadanie 12](#zadanie-12)
 
 <div style="page-break-after: always;"></div>
 
@@ -88,4 +91,27 @@
 ![Zadanie 9 (a) – zestawienie „Remanent na dzień dowolny” na dzień 05.08.2020 (towary 005–008 zostały w całości sprzedane na FS 2/08/2020)](zad9a.png)
 
 ![Zadanie 9 (b) – podgląd wydruku remanentu](zad9b.png)
+
+
+## Zadanie 10
+
+![Zadanie 10 (a) – podmiot cesyjny 004 Twój Bank S.A. – zaznaczone „Centrum obsługi ratalnej”, rachunek PL 04 9434 1067 3743 8072 7039 6806](zad10a.png)
+
+![Zadanie 10 (b) – lista kontrahentów z nowymi podmiotami cesyjnymi 004 Twój Bank S.A. i 005 BUY PRO S.A. (Centrum autoryzacji kart płatniczych, rachunek w Łąckim BS – Centrala)](zad10b.png)
+
+
+## Zadanie 11
+
+![Zadanie 11 (a) – słownik płatności kredytowych: „kredyt - Twój Bank”, termin 14 dni, instytucja 004 Twój Bank S.A.](zad11a.png)
+
+![Zadanie 11 (b) – słownik płatności kartą przy sprzedaży: „płatność kartą”, termin 14 dni, centrum 005 BUY PRO S.A., płatność aktywna](zad11b.png)
+
+
+## Zadanie 12
+
+![Zadanie 12 (a) – nowy klient 006 P.H.U Jacek Pocieszak w kartotece kontrahentów (rachunek w BS w Przeworsku O. w Jaworniku Polskim)](zad12a.png)
+
+![Zadanie 12 (b) – zamówienie od klienta z 10.08.2020, numer oryginału ZT 51/2020, w uwagach: zamówienie przez witrynę vendero przesłane mailowo](zad12b.png)
+
+![Zadanie 12 (c) – lista zamówień od klientów: zapisane ZK 2/08/2020 na 4 510,78 zł](zad12c.png)
 
