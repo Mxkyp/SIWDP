@@ -22,6 +22,9 @@
 - [Zadanie 13](#zadanie-13)
 - [Zadanie 14](#zadanie-14)
 - [Zadanie 15](#zadanie-15)
+- [Zadanie 16](#zadanie-16)
+- [Zadanie 17](#zadanie-17)
+- [Zadanie 18](#zadanie-18)
 
 <div style="page-break-after: always;"></div>
 
@@ -138,4 +141,27 @@
 ![Zadanie 15 (a) – rozliczenie zobowiązania FZ 2/08/2020 (FS 245/08/2020) przelewem z dnia 15.08.2020; analogicznie rozliczono FZ 3/08/2020 (FS 667/08/2020)](zad15a.png)
 
 ![Zadanie 15 (b) – operacje bankowe: wypłaty z 15.08.2020 dla Hurtowni ALA – 1 785,04 zł i 1 568,56 zł (wszystkie zobowiązania rozliczone)](zad15b.png)
+
+
+## Zadanie 16
+
+![Zadanie 16 (a) – wpłata na rachunek z 18.08.2020 od P.H.U Jacek Pocieszak: 2 706,47 zł, tytułem „Przedpłata za ZK 2/08/2020 (2,706,47)”, dodana jako przedpłata do faktury](zad16a.png)
+
+![Zadanie 16 (b) – faktura sprzedaży z ZK 2/08/2020, data wystawienia i dostawy 18.08.2020: przedpłata 60% (2 706,47 zł) + kredyt kupiecki 40% (1 804,31 zł) w terminie 14 dni](zad16b.png)
+
+![Zadanie 16 (c) – lista faktur sprzedaży: zapisana FS 3/08/2020 na 4 510,78 zł](zad16c.png)
+
+
+## Zadanie 17
+
+![Zadanie 17 – stan minimalny wprowadzany w kartotece towaru (zakładka Miary), np. 001 So perfumy 20 ml: 25 szt.; pozostałe: 002 – 30, 003 – 15, 004 – 10 op. (60 szt.), 005 – 14, 006 – 8, 007 – 10, 008 – 45 szt. (kolumna „Stan minimalny” w zestawieniu z zadania 18)](zad17a.png)
+
+
+## Zadanie 18
+
+![Zadanie 18 (a) – zestawienie „Towary poniżej stanu minimalnego”: wszystkie 8 towarów jest poniżej stanu minimalnego](zad18a.png)
+
+![Zadanie 18 (b) – zamówienie do Hurtowni ALA z 19.08.2020 na brakujące ilości (stan minimalny − stan): 001×5, 002×21, 003×5, 004×38 szt., 005×14, 006×8, 007×10, 008×45](zad18b.png)
+
+![Zadanie 18 (c) – lista zamówień do dostawców: zapisane ZD 3/08/2020 na 6 712,59 zł](zad18c.png)
 
