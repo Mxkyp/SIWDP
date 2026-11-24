@@ -28,6 +28,9 @@
 - [Zadanie 19](#zadanie-19)
 - [Zadanie 20](#zadanie-20)
 - [Zadanie 21](#zadanie-21)
+- [Zadanie 22](#zadanie-22)
+- [Zadanie 23](#zadanie-23)
+- [Zadanie 24](#zadanie-24)
 
 <div style="page-break-after: always;"></div>
 
@@ -115,6 +118,8 @@
 
 ![Zadanie 11 (b) – słownik płatności kartą przy sprzedaży: „płatność kartą”, termin 14 dni, centrum 005 BUY PRO S.A., płatność aktywna](zad11b.png)
 
+![Zadanie 11 (c) – uruchomienie form płatności w parametrach programu (Parametry Subiekta → Płatności): włączona obsługa płatności kartami (domyślnie „płatność kartą”) i sprzedaży na kredyt (domyślnie „kredyt - Twój Bank”)](zad11c.png)
+
 
 ## Zadanie 12
 
@@ -186,4 +191,25 @@
 ## Zadanie 21
 
 ![Zadanie 21 – utworzone grupy towarów i przypisanie (Operacje → Zbiorcze → Grupy → Zmień grupę), widoczne w kolumnie „Grupa” remanentu: perfumy i wody perfumowane (001, 007), pomadki (002, 006), wody toaletowe (003, 005), żywność (004, 008)](zad21.png)
+
+
+## Zadanie 22
+
+![Zadanie 22 – zestawienie „Sprzedaż wg dokumentów” za okres 01.07.2020–25.08.2020: PA 1/07/2020, FS 1/07/2020, FS 2/08/2020, FS 3/08/2020 (razem netto 8 364,82 zł, brutto 9 563,08 zł)](zad22.png)
+
+
+## Zadanie 23
+
+![Zadanie 23 (a) – paragon PA 2/08/2020 z 26-08-2020 według cennika detalicznego: 005 ×2, 006 ×1, 007 ×2, zapłata kartą (535,34 zł)](zad23a.png)
+
+![Zadanie 23 (b) – paragon PA 3/08/2020 z 26-08-2020: 001 ×1 szt., 004 ×1 op., zapłata gotówką (211,14 zł)](zad23b.png)
+
+![Zadanie 23 (c) – lista sprzedaży detalicznej z zapisanymi paragonami PA 2/08/2020 i PA 3/08/2020](zad23c.png)
+
+
+## Zadanie 24
+
+![Zadanie 24 (a) – nowi klienci w kartotece kontrahentów: 007 P.H.U Roman Pocieszak (Agrestowa 57, Wrocław), 008 ANNE-MAR sp.j. (Polna 6, Kraków), 009 P.P.H.U Adam Gwiazda (Żeromskiego 25, Trzebnica) wraz z NIP](zad24a.png)
+
+![Zadanie 24 (b) – przykładowy rachunek bankowy klienta 009 (PL 56 1500 1881 2231 1796 1065 4232, Kredyt Bank SA O. w Gdyni); analogicznie dodano rachunki dla 007 i 008](zad24b.png)
 
