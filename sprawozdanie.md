@@ -25,6 +25,9 @@
 - [Zadanie 16](#zadanie-16)
 - [Zadanie 17](#zadanie-17)
 - [Zadanie 18](#zadanie-18)
+- [Zadanie 19](#zadanie-19)
+- [Zadanie 20](#zadanie-20)
+- [Zadanie 21](#zadanie-21)
 
 <div style="page-break-after: always;"></div>
 
@@ -164,4 +167,23 @@
 ![Zadanie 18 (b) – zamówienie do Hurtowni ALA z 19.08.2020 na brakujące ilości (stan minimalny − stan): 001×5, 002×21, 003×5, 004×38 szt., 005×14, 006×8, 007×10, 008×45](zad18b.png)
 
 ![Zadanie 18 (c) – lista zamówień do dostawców: zapisane ZD 3/08/2020 na 6 712,59 zł](zad18c.png)
+
+
+## Zadanie 19
+
+![Zadanie 19 (a) – faktura zakupu zrealizowana z ZD 3/08/2020, oryginał FS 976/08/2020, wszystkie daty 21.08.2020, rabat 10% na wszystkie towary, kredyt kupiecki 100% w terminie 21 dni](zad19a.png)
+
+![Zadanie 19 (b) – lista faktur zakupu: zapisana FZ 4/08/2020 na 6 041,27 zł](zad19b.png)
+
+
+## Zadanie 20
+
+![Zadanie 20 (a) – kalkulacja ceny w kartotece towaru: cena kartotekowa przeniesiona z „Ceny z najmłodszej, istniejącej dostawy” (FZ 4/08/2020 po rabacie 10%), poziom „Detaliczna” – narzut 30% (np. 001: 135,00 → 175,50 zł netto)](zad20a.png)
+
+![Zadanie 20 (b) – lista towarów z nowymi cenami detalicznymi (cena najmłodszej dostawy + 30%) dla wszystkich 8 towarów](zad20b.png)
+
+
+## Zadanie 21
+
+![Zadanie 21 – utworzone grupy towarów i przypisanie (Operacje → Zbiorcze → Grupy → Zmień grupę), widoczne w kolumnie „Grupa” remanentu: perfumy i wody perfumowane (001, 007), pomadki (002, 006), wody toaletowe (003, 005), żywność (004, 008)](zad21.png)
 
