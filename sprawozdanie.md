@@ -13,6 +13,9 @@
 - [Zadanie 4](#zadanie-4)
 - [Zadanie 5](#zadanie-5)
 - [Zadanie 6](#zadanie-6)
+- [Zadanie 7](#zadanie-7)
+- [Zadanie 8](#zadanie-8)
+- [Zadanie 9](#zadanie-9)
 
 <div style="page-break-after: always;"></div>
 
@@ -64,4 +67,25 @@
 ![Zadanie 6 (a) – przyjęcie zewnętrzne z Hurtowni ALA zrealizowane z ZD 1/08/2020, data 03.08.2020, numer oryginału WZ 567/08/2020](zad6a.png)
 
 ![Zadanie 6 (b) – lista przyjęć magazynowych: zapisany dokument PZ 2/08/2020](zad6b.png)
+
+
+## Zadanie 7
+
+![Zadanie 7 (a) – faktura sprzedaży dla Drogerii NOVUM wystawiona na podstawie ZK 1/08/2020, data wystawienia i zakończenia dostawy 04.08.2020, kredyt kupiecki 14 dni](zad7a.png)
+
+![Zadanie 7 (b) – lista faktur sprzedaży: zapisana FS 2/08/2020 na 3 512,55 zł](zad7b.png)
+
+
+## Zadanie 8
+
+![Zadanie 8 (a) – faktura zakupu wystawiona na podstawie PZ 2/08/2020 (Hurtownia ALA), oryginał FS 245/08/2020 z 03.08.2020, data otrzymania 05.08.2020, kredyt kupiecki 14 dni](zad8a.png)
+
+![Zadanie 8 (b) – lista przyjęć: PZ 2/08/2020 powiązane z zapisaną fakturą FZ 2/08/2020 (w treści zadania „PZ 1/08/2020” – w systemie dokument ma numer PZ 2/08/2020, bo numeracja PZ jest roczna, a PZ 1/07/2020 powstało wcześniej z FZ 1/07/2020)](zad8b.png)
+
+
+## Zadanie 9
+
+![Zadanie 9 (a) – zestawienie „Remanent na dzień dowolny” na dzień 05.08.2020 (towary 005–008 zostały w całości sprzedane na FS 2/08/2020)](zad9a.png)
+
+![Zadanie 9 (b) – podgląd wydruku remanentu](zad9b.png)
 
