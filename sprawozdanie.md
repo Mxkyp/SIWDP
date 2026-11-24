@@ -19,6 +19,9 @@
 - [Zadanie 10](#zadanie-10)
 - [Zadanie 11](#zadanie-11)
 - [Zadanie 12](#zadanie-12)
+- [Zadanie 13](#zadanie-13)
+- [Zadanie 14](#zadanie-14)
+- [Zadanie 15](#zadanie-15)
 
 <div style="page-break-after: always;"></div>
 
@@ -114,4 +117,25 @@
 ![Zadanie 12 (b) – zamówienie od klienta z 10.08.2020, numer oryginału ZT 51/2020, w uwagach: zamówienie przez witrynę vendero przesłane mailowo](zad12b.png)
 
 ![Zadanie 12 (c) – lista zamówień od klientów: zapisane ZK 2/08/2020 na 4 510,78 zł](zad12c.png)
+
+
+## Zadanie 13
+
+![Zadanie 13 (a) – zamówienie do dostawcy (Hurtownia ALA) z 11.08.2020 – tylko brakujący towar do realizacji ZK 2/08/2020: 005×10, 006×15, 007×3, 008×25 (pomadki 03 jest na stanie 17 szt., a ZK potrzebuje 8)](zad13a.png)
+
+![Zadanie 13 (b) – lista zamówień do dostawców: zapisane ZD 2/08/2020 na 1 568,56 zł](zad13b.png)
+
+
+## Zadanie 14
+
+![Zadanie 14 (a) – faktura zakupu zrealizowana z ZD 2/08/2020, oryginał FS 667/08/2020, data oryginału, dostawy i otrzymania 13.08.2020, kredyt kupiecki 14 dni](zad14a.png)
+
+![Zadanie 14 (b) – lista faktur zakupu: zapisana FZ 3/08/2020 na 1 568,56 zł](zad14b.png)
+
+
+## Zadanie 15
+
+![Zadanie 15 (a) – rozliczenie zobowiązania FZ 2/08/2020 (FS 245/08/2020) przelewem z dnia 15.08.2020; analogicznie rozliczono FZ 3/08/2020 (FS 667/08/2020)](zad15a.png)
+
+![Zadanie 15 (b) – operacje bankowe: wypłaty z 15.08.2020 dla Hurtowni ALA – 1 785,04 zł i 1 568,56 zł (wszystkie zobowiązania rozliczone)](zad15b.png)
 
